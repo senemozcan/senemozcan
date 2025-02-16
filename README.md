@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Senem</h1>
 <h3 align="center">A software engineering student from Türkiye</h3>
 
-- 🔭 I’m currently working on **unity**
+- 🔭 I’m currently working on **spring boot and flutter**
 
-- 🌱 I’m currently learning **spring boot and flutter**
+- 🌱 I’m currently learning **unreal engine**
 
 - 👨‍💻 All of my projects are available at [https://github.com/senemozcan?tab=repositories](https://github.com/senemozcan?tab=repositories)
 
